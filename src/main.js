@@ -2,9 +2,9 @@ const LineAPI = require('./api');
 const { Message, OpType, Location } = require('../curve-thrift/line_types');
 let exec = require('child_process').exec;
 
-const myBot = ['u776c2ddcede4ed6f0205e3fac45eee7f','u79ccb7b16ca8e76320c86672f0dee2ed','u7f5f8b7e95614d43de97b056e46e549c'];
+const myBot = ['u00f827ce6641038d7c9b6704a9777dfa'];
 var vx = {};var midnornama = "";var pesane = "";//DO NOT CHANGE THIS
-var banList = ['u02a0665c44d3fa83e0864ef91ea76f8d'];//Banned list
+var banList = ['u00f827ce6641038d7c9b6704a9777dfa'];//Banned list
 var waitMsg = "no"; //DO NOT CHANGE THIS
 var msgText = "Bro.... ini tes, jangan dibales !";
 
@@ -47,7 +47,7 @@ class LINE extends LineAPI {
 ▪ !speed\n\
 ▪ !tagall *ADMIN*\n\
 ▪ !unmute *ADMIN*\n\
-\n\n# Gunakan bot dengan bijak ^_^";
+\n\n# Gunakan bot v2 ;
     }
 
     getOprationType(operations) {
