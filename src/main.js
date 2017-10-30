@@ -27,7 +27,7 @@ class LINE extends LineAPI {
 			salam: 1,
 			mute: 0
         }
-		this.keyhelp = "\n\
+		this.keyhelp = \n\
 ====================\n\
 # Keyword List\n\n\
 ▪ !ban *ADMIN*\n\
