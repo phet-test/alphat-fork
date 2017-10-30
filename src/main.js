@@ -27,7 +27,7 @@ class LINE extends LineAPI {
 			salam: 1,
 			mute: 0
         }
-		this.keyhelp = "\n\====================\n\# Keyword List\n\n\▪ !ban *ADMIN*\n\▪ !banlist\n\▪ !botleft *ADMIN*\n\▪ !cekid\n\▪ !gURL\n\▪ !halo\n\▪ !kepo\n\▪ !key\n\▪ !kickall *ADMIN*\n\▪ !kickme\n\▪ !msg\n\▪ !mute *ADMIN*\n\▪ !myid\n\▪ !sendcontact\n\▪ !speed\n\▪ !tagall *ADMIN*\n\▪ !unmute *ADMIN*\n\\n\n# PHET HACK BOT bot v2 ;
+//this.keyhelp = "\n\====================\n\# Keyword List\n\n\▪ !ban *ADMIN*\n\▪ !banlist\n\▪ !botleft *ADMIN*\n\▪ !cekid\n\▪ !gURL\n\▪ !halo\n\▪ !kepo\n\▪ !key\n\▪ !kickall *ADMIN*\n\▪ !kickme\n\▪ !msg\n\▪ !mute *ADMIN*\n\▪ !myid\n\▪ !sendcontact\n\▪ !speed\n\▪ !tagall *ADMIN*\n\▪ !unmute *ADMIN*\n\\n\n# PHET HACK BOT bot v2 ;
     }
 
     getOprationType(operations) {
